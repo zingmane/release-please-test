@@ -1,4 +1,8 @@
 ```
-deno task start
+npm install
+npm run dev
 ```
-# release-please-test
+
+```
+open http://localhost:3000
+```
