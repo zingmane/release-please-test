@@ -11,6 +11,7 @@ app.get('/info', (c) => {
   return c.json({
     name: 'release-please-test',
     description: 'This is a test repository for how to use Release Please.',
+    version: '1.2.0'
   })
 })
 
