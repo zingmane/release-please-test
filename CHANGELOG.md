@@ -1,5 +1,21 @@
 # Changelog
 
+## [2.0.0](https://github.com/zingmane/release-please-test/compare/release-please-v1.2.0...release-please-v2.0.0) (2026-02-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* **task-5:** bump version number
+
+### Features
+
+* **task-5:** bump version number ([5975a37](https://github.com/zingmane/release-please-test/commit/5975a3721cbbcc781e4af5aca6705f0a2da468cd))
+
+
+### Documentation
+
+* add troubleshooting ([266a27f](https://github.com/zingmane/release-please-test/commit/266a27f3ac11dc742ae98f9703bd74e6be400be6))
+
 ## [1.2.0](https://github.com/zingmane/release-please-test/compare/release-please-v1.1.0...release-please-v1.2.0) (2026-02-19)
 
 
