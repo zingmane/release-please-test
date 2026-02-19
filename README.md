@@ -10,3 +10,5 @@ npm run dev
 ```txt
 open http://localhost:3000
 ```
+
+## Troubleshooting
