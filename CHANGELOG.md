@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/zingmane/release-please-test/compare/release-please-v2.0.0...release-please-v2.0.1) (2026-02-19)
+
+
+### Miscellaneous
+
+* update package.json to add husky and ([5cbe3e0](https://github.com/zingmane/release-please-test/commit/5cbe3e0a85ba99793c4d002f309bb07d9dcb9831))
+
 ## [2.0.0](https://github.com/zingmane/release-please-test/compare/release-please-v1.2.0...release-please-v2.0.0) (2026-02-19)
 
 
