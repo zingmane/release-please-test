@@ -1,7 +1,14 @@
 {
-  "name": "release-please",
+  "name": "@zingmane/release-please",
   "version": "1.1.0",
   "type": "module",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zingmane/release-please-test.git"
+  },
   "scripts": {
     "clean": "rm -rf dist",
     "dev": "tsx watch src/index.ts",
