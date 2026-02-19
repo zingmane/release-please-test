@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.0](https://github.com/zingmane/release-please-test/compare/release-please-v1.1.0...release-please-v1.2.0) (2026-02-19)
+
+
+### Features
+
+* add force_publish ([a735c08](https://github.com/zingmane/release-please-test/commit/a735c08e6ad00061884d4799fd28580841bc760a))
+
+
+### Bug Fixes
+
+* change repo scope ([e0c96ae](https://github.com/zingmane/release-please-test/commit/e0c96ae9734486134dd9cdab44fc06facc96f7e5))
+
 ## [1.1.0](https://github.com/zingmane/release-please-test/compare/release-please-v1.0.0...release-please-v1.1.0) (2026-02-19)
 
 
