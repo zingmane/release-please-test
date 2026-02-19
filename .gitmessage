@@ -1,0 +1,13 @@
+# <type>(<scope>): <subject>
+#
+# Typen: feat, fix, docs, style, refactor, perf, test, chore, ci, build, revert
+# Scope: Optional, z.B. api, ui, auth
+# Subject: Kurze Beschreibung im Imperativ
+#
+# Example:
+# feat(auth): add login functionality
+# fix: resolve memory leak
+# docs: update installation guide
+#
+# Committing with --no-verify for exceptions (not recommended):
+# git commit -m "message" --no-verify
