@@ -4,6 +4,12 @@ on:
       - main
   # for manual runs
   workflow_dispatch:
+    inputs:
+      force_publish:
+        description: 'Force build and publish (skip release check)'
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write
@@ -36,7 +42,7 @@ jobs:
 
   build-and-publish:
     needs: release-please
-    if: needs.release-please.outputs.releases_created == 'true'
+    if: needs.release-please.outputs.releases_created == 'true' || github.event.inputs.force_publish == 'true'
     runs-on: ubuntu-latest
 
     steps:
